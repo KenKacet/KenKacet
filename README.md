@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KenKacet
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning a little of all
-- 💞️ I’m looking to collaborate on entertainment
+- 💞️ I’m looking to collaborate on entertainment area
 - 📫 How to reach me leonardoborgesdossantos26@gmail.com
 
 <!---
